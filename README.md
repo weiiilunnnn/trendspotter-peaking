@@ -1,5 +1,9 @@
 # TrendSpotter — Streamlit Prototype
 
+Deployment
+
+Interative App Link: https://trendspotter-peaking.streamlit.app/
+
 This app demonstrates the TrendSpotter prototype:
 - Micro: token/hashtag growth (last N days vs previous N)
 - Momentum: engagement-weighted trend strength
@@ -26,9 +30,17 @@ streamlit run streamlit_app.py
 - Expected columns (missing ones are auto-filled):  
   `videoId, publishedAt, title, description, tags, topicCategories, viewCount, likeCount, commentCount, defaultLanguage, defaultAudioLanguage, contentDuration`
 
-## 4) Notes for Judges
-- **No normalization needed** for interpretation; raw scores show natural magnitude differences.
-- Hybrid score balances micro (token growth), macro (semantic topic strength), and momentum (engagement). Sliders let you tune weights live.
-- If Statsmodels is present, the Decay tab adds a 4-week Holt–Winters forecast.
+## 4) Technical Stack  
 
-Enjoy!
+### Languages & Libraries  
+- **Python 3.10+**  
+- **Pandas, NumPy** — data wrangling  
+- **scikit-learn** — clustering, metrics  
+- **Sentence-Transformers (MiniLM)** — semantic embeddings  
+- **Statsmodels** — trend/decay forecasting  
+- **Matplotlib, Streamlit** — visualization & interactive dashboard  
+
+### Deployment  
+- Deployed on **Streamlit Community Cloud** for demonstration.  
+- Requires no server setup or external cloud costs.  
+- Suitable for lightweight prototyping and public sharing.  

@@ -404,7 +404,7 @@ st.sidebar.write(f"Statsmodels available: **{HAS_SM}**")
 st.sidebar.write(f"Translation available: **{HAS_TRANS and translator is not None}**")
 
 # ---------------- Main ----------------
-st.title("L'Oréal × Monash — TrendSpotter")
+st.title("L'Oréal × Monash — TrendSpotter - Group: Peaking")
 st.write("**Early trend identification** across hashtags/keywords + **semantic topics**. Identify segments and **when trends decay**. Auto-translates non-English text before tokenization.")
 
 if data_source is None:
