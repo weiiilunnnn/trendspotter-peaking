@@ -1,0 +1,2039 @@
+week,cohort,family,count
+2020-01-06,Gen Z,other,2
+2020-01-06,Millennials,hair,2
+2020-01-06,Millennials,other,3
+2020-01-13,Gen Z,hair,3
+2020-01-13,Gen Z,makeup,13
+2020-01-13,Gen Z,other,1435
+2020-01-13,Gen Z,skincare,16
+2020-01-13,Millennials,hair,1
+2020-01-13,Millennials,makeup,1
+2020-01-13,Millennials,other,4
+2020-01-20,Millennials,hair,4
+2020-01-20,Millennials,makeup,1
+2020-01-20,Millennials,other,20
+2020-01-27,Gen Z,other,45
+2020-02-03,Gen Z,hair,2
+2020-02-03,Gen Z,makeup,5
+2020-02-03,Gen Z,other,997
+2020-02-03,Gen Z,skincare,3
+2020-02-10,Gen Z,makeup,7
+2020-02-10,Gen Z,other,367
+2020-02-10,Gen Z,skincare,3
+2020-02-17,Gen Z,makeup,1
+2020-02-17,Gen Z,other,9
+2020-02-24,Millennials,hair,1
+2020-02-24,Millennials,other,22
+2020-03-02,Gen Z,hair,1
+2020-03-02,Gen Z,makeup,6
+2020-03-02,Gen Z,other,56
+2020-03-02,Gen Z,skincare,1
+2020-03-02,Millennials,other,5
+2020-03-09,Gen Z,hair,4
+2020-03-09,Gen Z,makeup,9
+2020-03-09,Gen Z,other,1090
+2020-03-09,Gen Z,skincare,5
+2020-03-09,Millennials,hair,5
+2020-03-09,Millennials,other,62
+2020-03-16,Gen Z,makeup,4
+2020-03-16,Gen Z,other,128
+2020-03-16,Gen Z,skincare,7
+2020-03-16,Millennials,hair,1
+2020-03-16,Millennials,other,6
+2020-03-23,Gen Z,hair,1
+2020-03-23,Gen Z,makeup,3
+2020-03-23,Gen Z,other,57
+2020-03-23,Gen Z,skincare,1
+2020-03-23,Millennials,other,8
+2020-03-30,Gen Z,makeup,1
+2020-03-30,Gen Z,other,51
+2020-03-30,Gen Z,skincare,1
+2020-03-30,Millennials,other,6
+2020-04-06,Gen Z,other,34
+2020-04-06,Gen Z,skincare,1
+2020-04-13,Gen Z,hair,1
+2020-04-13,Gen Z,makeup,8
+2020-04-13,Gen Z,other,242
+2020-04-13,Gen Z,skincare,1
+2020-04-20,Gen Z,makeup,3
+2020-04-20,Gen Z,other,106
+2020-04-20,Gen Z,skincare,2
+2020-04-27,Gen Z,hair,3
+2020-04-27,Gen Z,makeup,8
+2020-04-27,Gen Z,other,220
+2020-04-27,Gen Z,skincare,5
+2020-05-04,Gen Z,makeup,5
+2020-05-04,Gen Z,other,249
+2020-05-04,Gen Z,skincare,6
+2020-05-04,Millennials,hair,4
+2020-05-04,Millennials,other,335
+2020-05-04,Millennials,skincare,2
+2020-05-11,Gen Z,makeup,3
+2020-05-11,Gen Z,other,91
+2020-05-11,Gen Z,skincare,1
+2020-05-18,Gen Z,hair,3
+2020-05-18,Gen Z,makeup,10
+2020-05-18,Gen Z,other,1131
+2020-05-18,Gen Z,skincare,7
+2020-05-25,Gen Z,makeup,5
+2020-05-25,Gen Z,other,982
+2020-05-25,Gen Z,skincare,8
+2020-05-25,Millennials,hair,1
+2020-05-25,Millennials,other,28
+2020-06-01,Gen Z,makeup,1
+2020-06-01,Gen Z,other,29
+2020-06-01,Gen Z,skincare,1
+2020-06-01,Millennials,hair,2
+2020-06-01,Millennials,makeup,1
+2020-06-01,Millennials,other,14
+2020-06-08,Gen Z,other,7
+2020-06-08,Gen Z,skincare,1
+2020-06-08,Millennials,hair,2
+2020-06-08,Millennials,other,21
+2020-06-15,Gen Z,hair,2
+2020-06-15,Gen Z,makeup,6
+2020-06-15,Gen Z,other,282
+2020-06-15,Gen Z,skincare,3
+2020-06-22,Millennials,hair,2
+2020-06-22,Millennials,makeup,1
+2020-06-22,Millennials,other,25
+2020-06-29,Gen Z,hair,1
+2020-06-29,Gen Z,makeup,4
+2020-06-29,Gen Z,other,37
+2020-06-29,Gen Z,skincare,1
+2020-06-29,Millennials,hair,1
+2020-06-29,Millennials,other,9
+2020-07-06,Gen Z,other,70
+2020-07-06,Gen Z,skincare,1
+2020-07-06,Millennials,hair,1
+2020-07-06,Millennials,other,9
+2020-07-13,Gen Z,other,9
+2020-07-13,Gen Z,skincare,1
+2020-07-20,Gen Z,hair,2
+2020-07-20,Gen Z,makeup,9
+2020-07-20,Gen Z,other,325
+2020-07-20,Gen Z,skincare,11
+2020-07-20,Millennials,hair,2
+2020-07-20,Millennials,other,61
+2020-07-20,Millennials,skincare,1
+2020-07-27,Gen Z,hair,3
+2020-07-27,Gen Z,makeup,4
+2020-07-27,Gen Z,other,291
+2020-07-27,Gen Z,skincare,4
+2020-07-27,Millennials,hair,6
+2020-07-27,Millennials,makeup,6
+2020-07-27,Millennials,other,169
+2020-07-27,Millennials,skincare,1
+2020-08-03,Gen Z,hair,1
+2020-08-03,Gen Z,makeup,5
+2020-08-03,Gen Z,other,107
+2020-08-03,Gen Z,skincare,2
+2020-08-10,Gen Z,hair,1
+2020-08-10,Gen Z,makeup,8
+2020-08-10,Gen Z,other,795
+2020-08-10,Gen Z,skincare,5
+2020-08-10,Millennials,hair,1
+2020-08-10,Millennials,other,87
+2020-08-10,Millennials,skincare,1
+2020-08-17,Gen Z,makeup,4
+2020-08-17,Gen Z,other,131
+2020-08-17,Gen Z,skincare,5
+2020-08-17,Millennials,other,28
+2020-08-24,Gen Z,makeup,12
+2020-08-24,Gen Z,other,297
+2020-08-24,Gen Z,skincare,3
+2020-08-31,Gen Z,makeup,1
+2020-08-31,Gen Z,other,11
+2020-08-31,Gen Z,skincare,1
+2020-08-31,Millennials,hair,1
+2020-08-31,Millennials,other,2
+2020-09-07,Gen Z,makeup,3
+2020-09-07,Gen Z,other,28
+2020-09-07,Millennials,hair,1
+2020-09-07,Millennials,other,9
+2020-09-14,Gen Z,hair,3
+2020-09-14,Gen Z,makeup,12
+2020-09-14,Gen Z,other,192
+2020-09-14,Gen Z,skincare,3
+2020-09-14,Millennials,hair,4
+2020-09-14,Millennials,makeup,2
+2020-09-14,Millennials,other,797
+2020-09-14,Millennials,skincare,2
+2020-09-21,Gen Z,hair,3
+2020-09-21,Gen Z,makeup,4
+2020-09-21,Gen Z,other,115
+2020-09-21,Gen Z,skincare,2
+2020-09-21,Millennials,hair,1
+2020-09-21,Millennials,makeup,1
+2020-09-21,Millennials,other,31
+2020-09-28,Gen Z,hair,4
+2020-09-28,Gen Z,makeup,28
+2020-09-28,Gen Z,other,1303
+2020-09-28,Gen Z,skincare,16
+2020-09-28,Millennials,hair,2
+2020-09-28,Millennials,makeup,1
+2020-09-28,Millennials,other,232
+2020-09-28,Millennials,skincare,1
+2020-10-05,Gen Z,hair,1
+2020-10-05,Gen Z,other,3
+2020-10-05,Millennials,hair,6
+2020-10-05,Millennials,makeup,4
+2020-10-05,Millennials,other,150
+2020-10-05,Millennials,skincare,2
+2020-10-12,Gen Z,makeup,6
+2020-10-12,Gen Z,other,207
+2020-10-12,Gen Z,skincare,6
+2020-10-12,Millennials,hair,4
+2020-10-12,Millennials,makeup,1
+2020-10-12,Millennials,other,155
+2020-10-12,Millennials,skincare,3
+2020-10-19,Gen Z,hair,1
+2020-10-19,Gen Z,makeup,4
+2020-10-19,Gen Z,other,94
+2020-10-19,Gen Z,skincare,2
+2020-10-19,Millennials,hair,2
+2020-10-19,Millennials,makeup,1
+2020-10-19,Millennials,other,45
+2020-10-26,Gen Z,makeup,1
+2020-10-26,Gen Z,other,85
+2020-10-26,Gen Z,skincare,3
+2020-10-26,Millennials,hair,5
+2020-10-26,Millennials,makeup,1
+2020-10-26,Millennials,other,103
+2020-10-26,Millennials,skincare,1
+2020-11-02,Gen Z,makeup,1
+2020-11-02,Gen Z,other,13
+2020-11-02,Gen Z,skincare,1
+2020-11-02,Millennials,hair,4
+2020-11-02,Millennials,other,21
+2020-11-09,Gen Z,hair,4
+2020-11-09,Gen Z,makeup,8
+2020-11-09,Gen Z,other,1403
+2020-11-09,Gen Z,skincare,7
+2020-11-09,Millennials,hair,2
+2020-11-09,Millennials,makeup,3
+2020-11-09,Millennials,other,822
+2020-11-09,Millennials,skincare,3
+2020-11-16,Millennials,hair,4
+2020-11-16,Millennials,makeup,1
+2020-11-16,Millennials,other,53
+2020-11-23,Gen Z,hair,3
+2020-11-23,Gen Z,makeup,11
+2020-11-23,Gen Z,other,1178
+2020-11-23,Gen Z,skincare,11
+2020-11-23,Millennials,hair,8
+2020-11-23,Millennials,makeup,1
+2020-11-23,Millennials,other,120
+2020-11-30,Gen Z,fragrance,2
+2020-11-30,Gen Z,hair,1
+2020-11-30,Gen Z,makeup,3
+2020-11-30,Gen Z,other,213
+2020-11-30,Millennials,hair,4
+2020-11-30,Millennials,makeup,3
+2020-11-30,Millennials,other,210
+2020-11-30,Millennials,skincare,1
+2020-12-07,Gen Z,hair,2
+2020-12-07,Gen Z,makeup,7
+2020-12-07,Gen Z,other,737
+2020-12-07,Gen Z,skincare,5
+2020-12-07,Millennials,hair,6
+2020-12-07,Millennials,other,105
+2020-12-14,Gen Z,makeup,3
+2020-12-14,Gen Z,other,53
+2020-12-14,Gen Z,skincare,1
+2020-12-14,Millennials,hair,6
+2020-12-14,Millennials,makeup,1
+2020-12-14,Millennials,other,42
+2020-12-21,Gen Z,hair,1
+2020-12-21,Gen Z,makeup,4
+2020-12-21,Gen Z,other,119
+2020-12-21,Gen Z,skincare,2
+2020-12-21,Millennials,hair,5
+2020-12-21,Millennials,makeup,1
+2020-12-21,Millennials,other,43
+2020-12-28,Gen Z,makeup,3
+2020-12-28,Gen Z,other,100
+2020-12-28,Gen Z,skincare,2
+2020-12-28,Millennials,hair,4
+2020-12-28,Millennials,makeup,1
+2020-12-28,Millennials,other,34
+2021-01-04,Gen Z,hair,2
+2021-01-04,Gen Z,makeup,4
+2021-01-04,Gen Z,other,107
+2021-01-04,Gen Z,skincare,1
+2021-01-04,Millennials,hair,6
+2021-01-04,Millennials,makeup,1
+2021-01-04,Millennials,other,57
+2021-01-11,Gen Z,fragrance,1
+2021-01-11,Gen Z,hair,1
+2021-01-11,Gen Z,makeup,4
+2021-01-11,Gen Z,other,839
+2021-01-11,Gen Z,skincare,3
+2021-01-11,Millennials,hair,5
+2021-01-11,Millennials,makeup,4
+2021-01-11,Millennials,other,308
+2021-01-18,Gen Z,hair,2
+2021-01-18,Gen Z,makeup,8
+2021-01-18,Gen Z,other,109
+2021-01-18,Gen Z,skincare,4
+2021-01-18,Millennials,hair,6
+2021-01-18,Millennials,makeup,3
+2021-01-18,Millennials,other,149
+2021-01-18,Millennials,skincare,1
+2021-01-25,Gen Z,hair,2
+2021-01-25,Gen Z,makeup,11
+2021-01-25,Gen Z,other,1069
+2021-01-25,Gen Z,skincare,11
+2021-01-25,Millennials,hair,3
+2021-01-25,Millennials,other,264
+2021-02-01,Gen Z,makeup,3
+2021-02-01,Gen Z,other,47
+2021-02-01,Gen Z,skincare,1
+2021-02-01,Millennials,hair,9
+2021-02-01,Millennials,makeup,1
+2021-02-01,Millennials,other,111
+2021-02-01,Millennials,skincare,1
+2021-02-08,Gen Z,hair,2
+2021-02-08,Gen Z,makeup,8
+2021-02-08,Gen Z,other,589
+2021-02-08,Gen Z,skincare,5
+2021-02-08,Millennials,hair,8
+2021-02-08,Millennials,makeup,1
+2021-02-08,Millennials,other,133
+2021-02-08,Millennials,skincare,3
+2021-02-15,Gen Z,makeup,5
+2021-02-15,Gen Z,other,141
+2021-02-15,Gen Z,skincare,5
+2021-02-15,Millennials,hair,5
+2021-02-15,Millennials,other,32
+2021-02-22,Gen Z,hair,1
+2021-02-22,Gen Z,makeup,17
+2021-02-22,Gen Z,other,1339
+2021-02-22,Gen Z,skincare,10
+2021-02-22,Millennials,hair,4
+2021-02-22,Millennials,makeup,3
+2021-02-22,Millennials,other,47
+2021-03-01,Gen Z,fragrance,1
+2021-03-01,Gen Z,hair,2
+2021-03-01,Gen Z,makeup,21
+2021-03-01,Gen Z,other,1328
+2021-03-01,Gen Z,skincare,11
+2021-03-01,Millennials,hair,10
+2021-03-01,Millennials,makeup,2
+2021-03-01,Millennials,other,99
+2021-03-01,Millennials,skincare,4
+2021-03-08,Gen Z,hair,2
+2021-03-08,Gen Z,makeup,5
+2021-03-08,Gen Z,other,710
+2021-03-08,Gen Z,skincare,11
+2021-03-08,Millennials,hair,1
+2021-03-08,Millennials,other,1
+2021-03-15,Gen Z,makeup,2
+2021-03-15,Gen Z,other,101
+2021-03-15,Gen Z,skincare,1
+2021-03-15,Millennials,makeup,1
+2021-03-15,Millennials,other,8
+2021-03-22,Gen Z,makeup,5
+2021-03-22,Gen Z,other,51
+2021-03-22,Millennials,hair,10
+2021-03-22,Millennials,makeup,3
+2021-03-22,Millennials,other,177
+2021-03-22,Millennials,skincare,1
+2021-03-29,Gen Z,hair,1
+2021-03-29,Gen Z,makeup,9
+2021-03-29,Gen Z,other,613
+2021-03-29,Gen Z,skincare,4
+2021-03-29,Millennials,hair,6
+2021-03-29,Millennials,makeup,3
+2021-03-29,Millennials,other,698
+2021-03-29,Millennials,skincare,2
+2021-04-05,Gen Z,hair,1
+2021-04-05,Gen Z,makeup,5
+2021-04-05,Gen Z,other,151
+2021-04-05,Gen Z,skincare,8
+2021-04-12,Gen Z,other,53
+2021-04-12,Gen Z,skincare,1
+2021-04-12,Millennials,hair,9
+2021-04-12,Millennials,makeup,4
+2021-04-12,Millennials,other,102
+2021-04-19,Gen Z,makeup,8
+2021-04-19,Gen Z,other,96
+2021-04-19,Gen Z,skincare,4
+2021-04-19,Millennials,fragrance,1
+2021-04-19,Millennials,hair,4
+2021-04-19,Millennials,makeup,4
+2021-04-19,Millennials,other,45
+2021-04-26,Gen Z,hair,2
+2021-04-26,Gen Z,makeup,12
+2021-04-26,Gen Z,other,1284
+2021-04-26,Gen Z,skincare,10
+2021-04-26,Millennials,hair,6
+2021-04-26,Millennials,makeup,2
+2021-04-26,Millennials,other,42
+2021-05-03,Gen Z,hair,2
+2021-05-03,Gen Z,makeup,19
+2021-05-03,Gen Z,other,1245
+2021-05-03,Gen Z,skincare,11
+2021-05-03,Millennials,hair,3
+2021-05-03,Millennials,other,13
+2021-05-10,Gen Z,hair,1
+2021-05-10,Gen Z,makeup,8
+2021-05-10,Gen Z,other,669
+2021-05-10,Gen Z,skincare,7
+2021-05-10,Millennials,hair,1
+2021-05-10,Millennials,makeup,1
+2021-05-10,Millennials,other,8
+2021-05-17,Gen Z,makeup,12
+2021-05-17,Gen Z,other,781
+2021-05-17,Gen Z,skincare,5
+2021-05-17,Millennials,hair,10
+2021-05-17,Millennials,makeup,1
+2021-05-17,Millennials,other,177
+2021-05-17,Millennials,skincare,1
+2021-05-24,Gen Z,makeup,6
+2021-05-24,Gen Z,other,82
+2021-05-24,Gen Z,skincare,1
+2021-05-24,Millennials,hair,4
+2021-05-24,Millennials,makeup,3
+2021-05-24,Millennials,other,58
+2021-05-31,Gen Z,hair,1
+2021-05-31,Gen Z,makeup,12
+2021-05-31,Gen Z,other,230
+2021-05-31,Gen Z,skincare,3
+2021-05-31,Millennials,hair,2
+2021-05-31,Millennials,makeup,2
+2021-05-31,Millennials,other,899
+2021-05-31,Millennials,skincare,3
+2021-06-07,Gen Z,hair,2
+2021-06-07,Gen Z,makeup,18
+2021-06-07,Gen Z,other,1110
+2021-06-07,Gen Z,skincare,13
+2021-06-07,Millennials,hair,9
+2021-06-07,Millennials,makeup,1
+2021-06-07,Millennials,other,50
+2021-06-14,Gen Z,fragrance,1
+2021-06-14,Gen Z,makeup,27
+2021-06-14,Gen Z,other,343
+2021-06-14,Gen Z,skincare,8
+2021-06-14,Millennials,hair,8
+2021-06-14,Millennials,makeup,1
+2021-06-14,Millennials,other,64
+2021-06-21,Gen Z,hair,4
+2021-06-21,Gen Z,makeup,19
+2021-06-21,Gen Z,other,1700
+2021-06-21,Gen Z,skincare,16
+2021-06-21,Millennials,hair,6
+2021-06-21,Millennials,makeup,1
+2021-06-21,Millennials,other,94
+2021-06-21,Millennials,skincare,2
+2021-06-28,Gen Z,hair,3
+2021-06-28,Gen Z,makeup,16
+2021-06-28,Gen Z,other,1001
+2021-06-28,Gen Z,skincare,12
+2021-06-28,Millennials,hair,12
+2021-06-28,Millennials,makeup,6
+2021-06-28,Millennials,other,149
+2021-06-28,Millennials,skincare,2
+2021-07-05,Gen Z,hair,1
+2021-07-05,Gen Z,makeup,12
+2021-07-05,Gen Z,other,297
+2021-07-05,Gen Z,skincare,6
+2021-07-05,Millennials,hair,2
+2021-07-05,Millennials,makeup,2
+2021-07-05,Millennials,other,175
+2021-07-05,Millennials,skincare,1
+2021-07-12,Gen Z,fragrance,1
+2021-07-12,Gen Z,hair,3
+2021-07-12,Gen Z,makeup,21
+2021-07-12,Gen Z,other,847
+2021-07-12,Gen Z,skincare,14
+2021-07-12,Millennials,hair,9
+2021-07-12,Millennials,makeup,3
+2021-07-12,Millennials,other,191
+2021-07-12,Millennials,skincare,2
+2021-07-19,Gen Z,hair,1
+2021-07-19,Gen Z,makeup,9
+2021-07-19,Gen Z,other,80
+2021-07-19,Gen Z,skincare,2
+2021-07-19,Millennials,hair,12
+2021-07-19,Millennials,makeup,3
+2021-07-19,Millennials,other,180
+2021-07-19,Millennials,skincare,1
+2021-07-26,Gen Z,fragrance,1
+2021-07-26,Gen Z,hair,3
+2021-07-26,Gen Z,makeup,28
+2021-07-26,Gen Z,other,668
+2021-07-26,Gen Z,skincare,11
+2021-07-26,Millennials,hair,2
+2021-07-26,Millennials,other,22
+2021-08-02,Gen Z,fragrance,3
+2021-08-02,Gen Z,makeup,10
+2021-08-02,Gen Z,other,365
+2021-08-02,Gen Z,skincare,6
+2021-08-02,Millennials,hair,4
+2021-08-02,Millennials,makeup,3
+2021-08-02,Millennials,other,48
+2021-08-02,Millennials,skincare,1
+2021-08-09,Gen Z,hair,3
+2021-08-09,Gen Z,makeup,31
+2021-08-09,Gen Z,other,1167
+2021-08-09,Gen Z,skincare,19
+2021-08-09,Millennials,hair,15
+2021-08-09,Millennials,makeup,6
+2021-08-09,Millennials,other,107
+2021-08-16,Gen Z,makeup,20
+2021-08-16,Gen Z,other,278
+2021-08-16,Gen Z,skincare,6
+2021-08-16,Millennials,hair,5
+2021-08-16,Millennials,makeup,3
+2021-08-16,Millennials,other,355
+2021-08-16,Millennials,skincare,2
+2021-08-23,Gen Z,hair,8
+2021-08-23,Gen Z,makeup,33
+2021-08-23,Gen Z,other,1848
+2021-08-23,Gen Z,skincare,20
+2021-08-23,Millennials,hair,2
+2021-08-23,Millennials,makeup,2
+2021-08-23,Millennials,other,29
+2021-08-30,Gen Z,hair,4
+2021-08-30,Gen Z,makeup,18
+2021-08-30,Gen Z,other,197
+2021-08-30,Gen Z,skincare,11
+2021-08-30,Millennials,hair,10
+2021-08-30,Millennials,makeup,3
+2021-08-30,Millennials,other,115
+2021-09-06,Gen Z,fragrance,1
+2021-09-06,Gen Z,hair,4
+2021-09-06,Gen Z,makeup,21
+2021-09-06,Gen Z,other,389
+2021-09-06,Gen Z,skincare,11
+2021-09-06,Millennials,hair,12
+2021-09-06,Millennials,makeup,1
+2021-09-06,Millennials,other,131
+2021-09-13,Gen Z,hair,2
+2021-09-13,Gen Z,makeup,14
+2021-09-13,Gen Z,other,126
+2021-09-13,Gen Z,skincare,4
+2021-09-13,Millennials,hair,19
+2021-09-13,Millennials,makeup,2
+2021-09-13,Millennials,other,273
+2021-09-13,Millennials,skincare,1
+2021-09-20,Gen Z,hair,2
+2021-09-20,Gen Z,makeup,9
+2021-09-20,Gen Z,other,458
+2021-09-20,Gen Z,skincare,4
+2021-09-20,Millennials,hair,20
+2021-09-20,Millennials,makeup,10
+2021-09-20,Millennials,other,356
+2021-09-20,Millennials,skincare,2
+2021-09-27,Gen Z,fragrance,1
+2021-09-27,Gen Z,hair,1
+2021-09-27,Gen Z,makeup,20
+2021-09-27,Gen Z,other,1096
+2021-09-27,Gen Z,skincare,6
+2021-09-27,Millennials,hair,13
+2021-09-27,Millennials,makeup,6
+2021-09-27,Millennials,other,178
+2021-09-27,Millennials,skincare,2
+2021-10-04,Gen Z,makeup,26
+2021-10-04,Gen Z,other,442
+2021-10-04,Gen Z,skincare,5
+2021-10-04,Millennials,hair,11
+2021-10-04,Millennials,makeup,3
+2021-10-04,Millennials,other,136
+2021-10-11,Gen Z,hair,5
+2021-10-11,Gen Z,makeup,32
+2021-10-11,Gen Z,other,1947
+2021-10-11,Gen Z,skincare,22
+2021-10-11,Millennials,hair,7
+2021-10-11,Millennials,makeup,2
+2021-10-11,Millennials,other,96
+2021-10-11,Millennials,skincare,3
+2021-10-18,Gen Z,fragrance,3
+2021-10-18,Gen Z,hair,1
+2021-10-18,Gen Z,makeup,15
+2021-10-18,Gen Z,other,957
+2021-10-18,Gen Z,skincare,14
+2021-10-18,Millennials,hair,20
+2021-10-18,Millennials,makeup,6
+2021-10-18,Millennials,other,394
+2021-10-18,Millennials,skincare,1
+2021-10-25,Gen Z,fragrance,2
+2021-10-25,Gen Z,makeup,16
+2021-10-25,Gen Z,other,427
+2021-10-25,Gen Z,skincare,8
+2021-10-25,Millennials,hair,10
+2021-10-25,Millennials,makeup,3
+2021-10-25,Millennials,other,160
+2021-10-25,Millennials,skincare,1
+2021-11-01,Gen Z,hair,2
+2021-11-01,Gen Z,makeup,19
+2021-11-01,Gen Z,other,172
+2021-11-01,Gen Z,skincare,4
+2021-11-01,Millennials,hair,10
+2021-11-01,Millennials,makeup,3
+2021-11-01,Millennials,other,262
+2021-11-01,Millennials,skincare,2
+2021-11-08,Gen Z,hair,3
+2021-11-08,Gen Z,makeup,15
+2021-11-08,Gen Z,other,914
+2021-11-08,Gen Z,skincare,13
+2021-11-08,Millennials,hair,14
+2021-11-08,Millennials,makeup,3
+2021-11-08,Millennials,other,102
+2021-11-08,Millennials,skincare,1
+2021-11-15,Gen Z,hair,3
+2021-11-15,Gen Z,makeup,9
+2021-11-15,Gen Z,other,264
+2021-11-15,Gen Z,skincare,3
+2021-11-15,Millennials,hair,15
+2021-11-15,Millennials,other,153
+2021-11-15,Millennials,skincare,1
+2021-11-22,Gen Z,hair,1
+2021-11-22,Gen Z,makeup,23
+2021-11-22,Gen Z,other,559
+2021-11-22,Gen Z,skincare,12
+2021-11-22,Millennials,hair,18
+2021-11-22,Millennials,makeup,6
+2021-11-22,Millennials,other,638
+2021-11-22,Millennials,skincare,2
+2021-11-29,Gen Z,makeup,6
+2021-11-29,Gen Z,other,41
+2021-11-29,Gen Z,skincare,3
+2021-11-29,Millennials,hair,23
+2021-11-29,Millennials,makeup,4
+2021-11-29,Millennials,other,212
+2021-12-06,Gen Z,fragrance,1
+2021-12-06,Gen Z,makeup,11
+2021-12-06,Gen Z,other,205
+2021-12-06,Gen Z,skincare,5
+2021-12-06,Millennials,hair,15
+2021-12-06,Millennials,makeup,2
+2021-12-06,Millennials,other,1026
+2021-12-06,Millennials,skincare,4
+2021-12-13,Gen Z,hair,1
+2021-12-13,Gen Z,makeup,14
+2021-12-13,Gen Z,other,359
+2021-12-13,Gen Z,skincare,4
+2021-12-13,Millennials,hair,22
+2021-12-13,Millennials,makeup,2
+2021-12-13,Millennials,other,522
+2021-12-13,Millennials,skincare,1
+2021-12-20,Gen Z,hair,2
+2021-12-20,Gen Z,makeup,22
+2021-12-20,Gen Z,other,1027
+2021-12-20,Gen Z,skincare,11
+2021-12-20,Millennials,hair,12
+2021-12-20,Millennials,other,81
+2021-12-20,Millennials,skincare,2
+2021-12-27,Gen Z,hair,1
+2021-12-27,Gen Z,makeup,15
+2021-12-27,Gen Z,other,233
+2021-12-27,Gen Z,skincare,10
+2021-12-27,Millennials,hair,7
+2021-12-27,Millennials,makeup,1
+2021-12-27,Millennials,other,110
+2021-12-27,Millennials,skincare,1
+2022-01-03,Gen Z,makeup,7
+2022-01-03,Gen Z,other,123
+2022-01-03,Gen Z,skincare,2
+2022-01-03,Millennials,hair,1
+2022-01-03,Millennials,other,5
+2022-01-10,Gen Z,fragrance,2
+2022-01-10,Gen Z,makeup,2
+2022-01-10,Gen Z,other,581
+2022-01-10,Gen Z,skincare,4
+2022-01-10,Millennials,hair,4
+2022-01-10,Millennials,makeup,1
+2022-01-10,Millennials,other,93
+2022-01-17,Gen Z,hair,2
+2022-01-17,Gen Z,makeup,6
+2022-01-17,Gen Z,other,370
+2022-01-17,Gen Z,skincare,6
+2022-01-17,Millennials,hair,1
+2022-01-17,Millennials,makeup,1
+2022-01-17,Millennials,other,6
+2022-01-24,Gen Z,fragrance,1
+2022-01-24,Gen Z,makeup,1
+2022-01-24,Gen Z,other,33
+2022-01-24,Gen Z,skincare,3
+2022-01-31,Gen Z,makeup,4
+2022-01-31,Gen Z,other,56
+2022-01-31,Gen Z,skincare,4
+2022-01-31,Millennials,hair,3
+2022-01-31,Millennials,makeup,2
+2022-01-31,Millennials,other,163
+2022-01-31,Millennials,skincare,2
+2022-02-07,Gen Z,hair,2
+2022-02-07,Gen Z,makeup,9
+2022-02-07,Gen Z,other,70
+2022-02-07,Gen Z,skincare,5
+2022-02-07,Millennials,hair,2
+2022-02-07,Millennials,other,14
+2022-02-14,Gen Z,fragrance,2
+2022-02-14,Gen Z,makeup,3
+2022-02-14,Gen Z,other,257
+2022-02-14,Gen Z,skincare,2
+2022-02-21,Gen Z,makeup,6
+2022-02-21,Gen Z,other,45
+2022-02-21,Gen Z,skincare,1
+2022-02-21,Millennials,hair,3
+2022-02-21,Millennials,makeup,1
+2022-02-21,Millennials,other,31
+2022-02-28,Gen Z,hair,1
+2022-02-28,Gen Z,makeup,5
+2022-02-28,Gen Z,other,260
+2022-02-28,Gen Z,skincare,5
+2022-02-28,Millennials,other,8
+2022-02-28,Millennials,skincare,1
+2022-03-07,Gen Z,makeup,3
+2022-03-07,Gen Z,other,82
+2022-03-07,Millennials,hair,2
+2022-03-07,Millennials,other,17
+2022-03-14,Gen Z,fragrance,1
+2022-03-14,Gen Z,hair,1
+2022-03-14,Gen Z,makeup,9
+2022-03-14,Gen Z,other,1927
+2022-03-14,Gen Z,skincare,4
+2022-03-14,Millennials,hair,3
+2022-03-14,Millennials,makeup,1
+2022-03-14,Millennials,other,208
+2022-03-21,Gen Z,fragrance,4
+2022-03-21,Gen Z,makeup,2
+2022-03-21,Gen Z,other,402
+2022-03-21,Gen Z,skincare,4
+2022-03-21,Millennials,hair,10
+2022-03-21,Millennials,makeup,2
+2022-03-21,Millennials,other,185
+2022-03-28,Gen Z,hair,1
+2022-03-28,Gen Z,makeup,12
+2022-03-28,Gen Z,other,1657
+2022-03-28,Gen Z,skincare,14
+2022-04-04,Gen Z,hair,3
+2022-04-04,Gen Z,makeup,8
+2022-04-04,Gen Z,other,836
+2022-04-04,Gen Z,skincare,4
+2022-04-04,Millennials,hair,3
+2022-04-04,Millennials,other,25
+2022-04-11,Gen Z,hair,2
+2022-04-11,Gen Z,makeup,9
+2022-04-11,Gen Z,other,589
+2022-04-11,Gen Z,skincare,6
+2022-04-11,Millennials,hair,2
+2022-04-11,Millennials,other,6
+2022-04-18,Gen Z,hair,1
+2022-04-18,Gen Z,makeup,1
+2022-04-18,Gen Z,other,42
+2022-04-18,Gen Z,skincare,6
+2022-04-18,Millennials,hair,9
+2022-04-18,Millennials,other,63
+2022-04-18,Millennials,skincare,1
+2022-04-25,Gen Z,makeup,2
+2022-04-25,Gen Z,other,27
+2022-04-25,Gen Z,skincare,2
+2022-04-25,Millennials,hair,3
+2022-04-25,Millennials,other,16
+2022-05-02,Gen Z,fragrance,1
+2022-05-02,Gen Z,hair,1
+2022-05-02,Gen Z,makeup,5
+2022-05-02,Gen Z,other,103
+2022-05-02,Gen Z,skincare,2
+2022-05-02,Millennials,hair,3
+2022-05-02,Millennials,makeup,1
+2022-05-02,Millennials,other,206
+2022-05-02,Millennials,skincare,2
+2022-05-09,Gen Z,fragrance,1
+2022-05-09,Gen Z,makeup,5
+2022-05-09,Gen Z,other,80
+2022-05-09,Gen Z,skincare,4
+2022-05-09,Millennials,hair,6
+2022-05-09,Millennials,other,26
+2022-05-16,Gen Z,hair,1
+2022-05-16,Gen Z,makeup,6
+2022-05-16,Gen Z,other,287
+2022-05-16,Gen Z,skincare,3
+2022-05-16,Millennials,hair,3
+2022-05-16,Millennials,makeup,1
+2022-05-16,Millennials,other,191
+2022-05-16,Millennials,skincare,1
+2022-05-23,Gen Z,fragrance,1
+2022-05-23,Gen Z,makeup,2
+2022-05-23,Gen Z,other,90
+2022-05-23,Gen Z,skincare,4
+2022-05-23,Millennials,hair,1
+2022-05-23,Millennials,makeup,1
+2022-05-23,Millennials,other,31
+2022-05-30,Gen Z,makeup,2
+2022-05-30,Gen Z,other,52
+2022-05-30,Gen Z,skincare,5
+2022-05-30,Millennials,hair,3
+2022-05-30,Millennials,makeup,2
+2022-05-30,Millennials,other,27
+2022-06-06,Gen Z,makeup,2
+2022-06-06,Gen Z,other,40
+2022-06-06,Gen Z,skincare,6
+2022-06-13,Gen Z,hair,5
+2022-06-13,Gen Z,makeup,14
+2022-06-13,Gen Z,other,698
+2022-06-13,Gen Z,skincare,9
+2022-06-13,Millennials,hair,9
+2022-06-13,Millennials,makeup,3
+2022-06-13,Millennials,other,186
+2022-06-13,Millennials,skincare,2
+2022-06-20,Gen Z,hair,4
+2022-06-20,Gen Z,makeup,3
+2022-06-20,Gen Z,other,1353
+2022-06-20,Gen Z,skincare,9
+2022-06-20,Millennials,hair,1
+2022-06-20,Millennials,other,15
+2022-06-27,Gen Z,hair,2
+2022-06-27,Gen Z,makeup,8
+2022-06-27,Gen Z,other,731
+2022-06-27,Gen Z,skincare,9
+2022-06-27,Millennials,hair,4
+2022-06-27,Millennials,other,25
+2022-07-04,Gen Z,makeup,1
+2022-07-04,Gen Z,other,14
+2022-07-04,Gen Z,skincare,1
+2022-07-04,Millennials,hair,6
+2022-07-04,Millennials,makeup,1
+2022-07-04,Millennials,other,17
+2022-07-11,Gen Z,fragrance,3
+2022-07-11,Gen Z,hair,3
+2022-07-11,Gen Z,makeup,10
+2022-07-11,Gen Z,other,938
+2022-07-11,Gen Z,skincare,9
+2022-07-11,Millennials,hair,3
+2022-07-11,Millennials,makeup,3
+2022-07-11,Millennials,other,66
+2022-07-18,Gen Z,fragrance,4
+2022-07-18,Gen Z,hair,2
+2022-07-18,Gen Z,makeup,13
+2022-07-18,Gen Z,other,1506
+2022-07-18,Gen Z,skincare,13
+2022-07-18,Millennials,hair,2
+2022-07-18,Millennials,other,9
+2022-07-25,Gen Z,fragrance,2
+2022-07-25,Gen Z,makeup,5
+2022-07-25,Gen Z,other,165
+2022-07-25,Gen Z,skincare,2
+2022-07-25,Millennials,hair,2
+2022-07-25,Millennials,other,4
+2022-08-01,Gen Z,fragrance,4
+2022-08-01,Gen Z,makeup,10
+2022-08-01,Gen Z,other,115
+2022-08-01,Gen Z,skincare,3
+2022-08-01,Millennials,hair,6
+2022-08-01,Millennials,makeup,3
+2022-08-01,Millennials,other,73
+2022-08-01,Millennials,skincare,1
+2022-08-08,Gen Z,fragrance,1
+2022-08-08,Gen Z,hair,1
+2022-08-08,Gen Z,makeup,6
+2022-08-08,Gen Z,other,205
+2022-08-08,Gen Z,skincare,4
+2022-08-08,Millennials,hair,2
+2022-08-08,Millennials,other,25
+2022-08-15,Gen Z,hair,2
+2022-08-15,Gen Z,makeup,16
+2022-08-15,Gen Z,other,1290
+2022-08-15,Gen Z,skincare,10
+2022-08-15,Millennials,hair,3
+2022-08-15,Millennials,other,11
+2022-08-22,Gen Z,makeup,1
+2022-08-22,Gen Z,other,106
+2022-08-22,Gen Z,skincare,2
+2022-08-22,Millennials,hair,6
+2022-08-22,Millennials,makeup,2
+2022-08-22,Millennials,other,60
+2022-08-22,Millennials,skincare,1
+2022-08-29,Gen Z,makeup,1
+2022-08-29,Gen Z,other,101
+2022-08-29,Gen Z,skincare,3
+2022-08-29,Millennials,hair,12
+2022-08-29,Millennials,makeup,2
+2022-08-29,Millennials,other,64
+2022-08-29,Millennials,skincare,1
+2022-09-05,Gen Z,hair,2
+2022-09-05,Gen Z,makeup,11
+2022-09-05,Gen Z,other,1183
+2022-09-05,Gen Z,skincare,11
+2022-09-05,Millennials,hair,8
+2022-09-05,Millennials,makeup,2
+2022-09-05,Millennials,other,1047
+2022-09-05,Millennials,skincare,2
+2022-09-12,Gen Z,fragrance,6
+2022-09-12,Gen Z,makeup,1
+2022-09-12,Gen Z,other,814
+2022-09-12,Gen Z,skincare,4
+2022-09-12,Millennials,hair,9
+2022-09-12,Millennials,makeup,2
+2022-09-12,Millennials,other,100
+2022-09-12,Millennials,skincare,1
+2022-09-19,Gen Z,hair,2
+2022-09-19,Gen Z,makeup,12
+2022-09-19,Gen Z,other,137
+2022-09-19,Gen Z,skincare,4
+2022-09-19,Millennials,hair,3
+2022-09-19,Millennials,makeup,1
+2022-09-19,Millennials,other,174
+2022-09-19,Millennials,skincare,2
+2022-09-26,Gen Z,hair,5
+2022-09-26,Gen Z,makeup,6
+2022-09-26,Gen Z,other,123
+2022-09-26,Gen Z,skincare,5
+2022-09-26,Millennials,hair,6
+2022-09-26,Millennials,other,28
+2022-10-03,Gen Z,hair,3
+2022-10-03,Gen Z,makeup,2
+2022-10-03,Gen Z,other,967
+2022-10-03,Gen Z,skincare,9
+2022-10-03,Millennials,hair,3
+2022-10-03,Millennials,makeup,1
+2022-10-03,Millennials,other,36
+2022-10-10,Gen Z,hair,3
+2022-10-10,Gen Z,makeup,13
+2022-10-10,Gen Z,other,175
+2022-10-10,Gen Z,skincare,9
+2022-10-10,Millennials,hair,6
+2022-10-10,Millennials,makeup,6
+2022-10-10,Millennials,other,206
+2022-10-10,Millennials,skincare,3
+2022-10-17,Gen Z,makeup,3
+2022-10-17,Gen Z,other,87
+2022-10-17,Gen Z,skincare,4
+2022-10-17,Millennials,hair,1
+2022-10-17,Millennials,makeup,1
+2022-10-17,Millennials,other,48
+2022-10-24,Gen Z,makeup,1
+2022-10-24,Gen Z,other,48
+2022-10-24,Gen Z,skincare,3
+2022-10-24,Millennials,hair,1
+2022-10-24,Millennials,makeup,1
+2022-10-24,Millennials,other,123
+2022-10-31,Gen Z,makeup,1
+2022-10-31,Gen Z,other,89
+2022-10-31,Gen Z,skincare,4
+2022-10-31,Millennials,hair,4
+2022-10-31,Millennials,makeup,2
+2022-10-31,Millennials,other,489
+2022-10-31,Millennials,skincare,1
+2022-11-07,Gen Z,fragrance,3
+2022-11-07,Gen Z,hair,2
+2022-11-07,Gen Z,makeup,12
+2022-11-07,Gen Z,other,914
+2022-11-07,Gen Z,skincare,6
+2022-11-07,Millennials,hair,6
+2022-11-07,Millennials,makeup,4
+2022-11-07,Millennials,other,48
+2022-11-07,Millennials,skincare,1
+2022-11-14,Gen Z,makeup,7
+2022-11-14,Gen Z,other,411
+2022-11-14,Gen Z,skincare,4
+2022-11-14,Millennials,fragrance,1
+2022-11-14,Millennials,hair,9
+2022-11-14,Millennials,makeup,5
+2022-11-14,Millennials,other,540
+2022-11-14,Millennials,skincare,4
+2022-11-21,Gen Z,fragrance,1
+2022-11-21,Gen Z,hair,2
+2022-11-21,Gen Z,makeup,20
+2022-11-21,Gen Z,other,1692
+2022-11-21,Gen Z,skincare,13
+2022-11-21,Millennials,hair,1
+2022-11-21,Millennials,other,6
+2022-11-28,Gen Z,hair,1
+2022-11-28,Gen Z,makeup,3
+2022-11-28,Gen Z,other,349
+2022-11-28,Gen Z,skincare,1
+2022-11-28,Millennials,hair,5
+2022-11-28,Millennials,makeup,3
+2022-11-28,Millennials,other,64
+2022-11-28,Millennials,skincare,1
+2022-12-05,Gen Z,hair,3
+2022-12-05,Gen Z,makeup,6
+2022-12-05,Gen Z,other,777
+2022-12-05,Gen Z,skincare,4
+2022-12-05,Millennials,hair,9
+2022-12-05,Millennials,makeup,3
+2022-12-05,Millennials,other,734
+2022-12-05,Millennials,skincare,3
+2022-12-12,Gen Z,fragrance,1
+2022-12-12,Gen Z,hair,2
+2022-12-12,Gen Z,makeup,10
+2022-12-12,Gen Z,other,1176
+2022-12-12,Gen Z,skincare,8
+2022-12-12,Millennials,hair,7
+2022-12-12,Millennials,makeup,2
+2022-12-12,Millennials,other,67
+2022-12-19,Gen Z,fragrance,1
+2022-12-19,Gen Z,hair,2
+2022-12-19,Gen Z,makeup,14
+2022-12-19,Gen Z,other,355
+2022-12-19,Gen Z,skincare,5
+2022-12-19,Millennials,hair,12
+2022-12-19,Millennials,makeup,4
+2022-12-19,Millennials,other,215
+2022-12-19,Millennials,skincare,3
+2022-12-26,Gen Z,fragrance,1
+2022-12-26,Gen Z,hair,1
+2022-12-26,Gen Z,makeup,10
+2022-12-26,Gen Z,other,119
+2022-12-26,Gen Z,skincare,5
+2022-12-26,Millennials,hair,11
+2022-12-26,Millennials,makeup,3
+2022-12-26,Millennials,other,884
+2022-12-26,Millennials,skincare,2
+2023-01-02,Gen Z,hair,2
+2023-01-02,Gen Z,makeup,14
+2023-01-02,Gen Z,other,524
+2023-01-02,Gen Z,skincare,6
+2023-01-02,Millennials,hair,7
+2023-01-02,Millennials,makeup,1
+2023-01-02,Millennials,other,67
+2023-01-09,Gen Z,makeup,15
+2023-01-09,Gen Z,other,946
+2023-01-09,Gen Z,skincare,11
+2023-01-09,Millennials,hair,17
+2023-01-09,Millennials,makeup,2
+2023-01-09,Millennials,other,156
+2023-01-09,Millennials,skincare,2
+2023-01-16,Gen Z,hair,2
+2023-01-16,Gen Z,makeup,13
+2023-01-16,Gen Z,other,525
+2023-01-16,Gen Z,skincare,7
+2023-01-16,Millennials,hair,13
+2023-01-16,Millennials,makeup,8
+2023-01-16,Millennials,other,2769
+2023-01-16,Millennials,skincare,10
+2023-01-23,Gen Z,fragrance,1
+2023-01-23,Gen Z,hair,2
+2023-01-23,Gen Z,makeup,23
+2023-01-23,Gen Z,other,2584
+2023-01-23,Gen Z,skincare,23
+2023-01-23,Millennials,hair,18
+2023-01-23,Millennials,makeup,2
+2023-01-23,Millennials,other,90
+2023-01-30,Gen Z,hair,1
+2023-01-30,Gen Z,makeup,15
+2023-01-30,Gen Z,other,375
+2023-01-30,Gen Z,skincare,16
+2023-01-30,Millennials,hair,6
+2023-01-30,Millennials,makeup,3
+2023-01-30,Millennials,other,76
+2023-01-30,Millennials,skincare,2
+2023-02-06,Gen Z,fragrance,1
+2023-02-06,Gen Z,hair,4
+2023-02-06,Gen Z,makeup,21
+2023-02-06,Gen Z,other,2735
+2023-02-06,Gen Z,skincare,20
+2023-02-06,Millennials,hair,4
+2023-02-06,Millennials,other,57
+2023-02-06,Millennials,skincare,2
+2023-02-13,Gen Z,fragrance,4
+2023-02-13,Gen Z,makeup,10
+2023-02-13,Gen Z,other,594
+2023-02-13,Gen Z,skincare,3
+2023-02-13,Millennials,hair,5
+2023-02-13,Millennials,makeup,1
+2023-02-13,Millennials,other,41
+2023-02-20,Gen Z,fragrance,1
+2023-02-20,Gen Z,hair,8
+2023-02-20,Gen Z,makeup,26
+2023-02-20,Gen Z,other,1168
+2023-02-20,Gen Z,skincare,17
+2023-02-20,Millennials,hair,15
+2023-02-20,Millennials,makeup,5
+2023-02-20,Millennials,other,164
+2023-02-27,Gen Z,fragrance,1
+2023-02-27,Gen Z,hair,4
+2023-02-27,Gen Z,makeup,20
+2023-02-27,Gen Z,other,1466
+2023-02-27,Gen Z,skincare,13
+2023-02-27,Millennials,hair,13
+2023-02-27,Millennials,makeup,6
+2023-02-27,Millennials,other,661
+2023-02-27,Millennials,skincare,7
+2023-03-06,Gen Z,makeup,3
+2023-03-06,Gen Z,other,31
+2023-03-06,Gen Z,skincare,3
+2023-03-06,Millennials,hair,9
+2023-03-06,Millennials,makeup,1
+2023-03-06,Millennials,other,139
+2023-03-06,Millennials,skincare,2
+2023-03-13,Gen Z,hair,4
+2023-03-13,Gen Z,makeup,16
+2023-03-13,Gen Z,other,2740
+2023-03-13,Gen Z,skincare,24
+2023-03-13,Millennials,hair,18
+2023-03-13,Millennials,makeup,6
+2023-03-13,Millennials,other,71
+2023-03-20,Gen Z,fragrance,1
+2023-03-20,Gen Z,hair,1
+2023-03-20,Gen Z,makeup,19
+2023-03-20,Gen Z,other,933
+2023-03-20,Gen Z,skincare,15
+2023-03-20,Millennials,hair,9
+2023-03-20,Millennials,other,52
+2023-03-20,Millennials,skincare,1
+2023-03-27,Gen Z,fragrance,1
+2023-03-27,Gen Z,hair,3
+2023-03-27,Gen Z,makeup,33
+2023-03-27,Gen Z,other,1606
+2023-03-27,Gen Z,skincare,20
+2023-03-27,Millennials,hair,16
+2023-03-27,Millennials,makeup,4
+2023-03-27,Millennials,other,1316
+2023-03-27,Millennials,skincare,5
+2023-04-03,Gen Z,fragrance,1
+2023-04-03,Gen Z,hair,5
+2023-04-03,Gen Z,makeup,22
+2023-04-03,Gen Z,other,971
+2023-04-03,Gen Z,skincare,12
+2023-04-03,Millennials,hair,8
+2023-04-03,Millennials,other,36
+2023-04-03,Millennials,skincare,1
+2023-04-10,Gen Z,fragrance,2
+2023-04-10,Gen Z,hair,1
+2023-04-10,Gen Z,makeup,14
+2023-04-10,Gen Z,other,261
+2023-04-10,Gen Z,skincare,11
+2023-04-10,Millennials,hair,10
+2023-04-10,Millennials,makeup,8
+2023-04-10,Millennials,other,653
+2023-04-10,Millennials,skincare,6
+2023-04-17,Gen Z,makeup,11
+2023-04-17,Gen Z,other,164
+2023-04-17,Gen Z,skincare,9
+2023-04-17,Millennials,hair,8
+2023-04-17,Millennials,makeup,3
+2023-04-17,Millennials,other,209
+2023-04-17,Millennials,skincare,1
+2023-04-24,Gen Z,hair,2
+2023-04-24,Gen Z,makeup,13
+2023-04-24,Gen Z,other,478
+2023-04-24,Gen Z,skincare,11
+2023-04-24,Millennials,hair,14
+2023-04-24,Millennials,makeup,7
+2023-04-24,Millennials,other,461
+2023-04-24,Millennials,skincare,6
+2023-05-01,Gen Z,hair,4
+2023-05-01,Gen Z,makeup,20
+2023-05-01,Gen Z,other,439
+2023-05-01,Gen Z,skincare,13
+2023-05-01,Millennials,hair,7
+2023-05-01,Millennials,makeup,10
+2023-05-01,Millennials,other,818
+2023-05-01,Millennials,skincare,4
+2023-05-08,Gen Z,hair,1
+2023-05-08,Gen Z,makeup,26
+2023-05-08,Gen Z,other,1604
+2023-05-08,Gen Z,skincare,17
+2023-05-08,Millennials,hair,7
+2023-05-08,Millennials,makeup,5
+2023-05-08,Millennials,other,98
+2023-05-08,Millennials,skincare,1
+2023-05-15,Gen Z,fragrance,1
+2023-05-15,Gen Z,hair,2
+2023-05-15,Gen Z,makeup,30
+2023-05-15,Gen Z,other,1611
+2023-05-15,Gen Z,skincare,23
+2023-05-15,Millennials,hair,20
+2023-05-15,Millennials,makeup,3
+2023-05-15,Millennials,other,495
+2023-05-15,Millennials,skincare,4
+2023-05-22,Gen Z,hair,4
+2023-05-22,Gen Z,makeup,16
+2023-05-22,Gen Z,other,1744
+2023-05-22,Gen Z,skincare,14
+2023-05-22,Millennials,hair,8
+2023-05-22,Millennials,makeup,4
+2023-05-22,Millennials,other,167
+2023-05-22,Millennials,skincare,1
+2023-05-29,Gen Z,fragrance,2
+2023-05-29,Gen Z,hair,2
+2023-05-29,Gen Z,makeup,19
+2023-05-29,Gen Z,other,1047
+2023-05-29,Gen Z,skincare,13
+2023-05-29,Millennials,hair,11
+2023-05-29,Millennials,makeup,4
+2023-05-29,Millennials,other,1141
+2023-05-29,Millennials,skincare,5
+2023-06-05,Gen Z,fragrance,1
+2023-06-05,Gen Z,hair,2
+2023-06-05,Gen Z,makeup,15
+2023-06-05,Gen Z,other,239
+2023-06-05,Gen Z,skincare,16
+2023-06-05,Millennials,fragrance,1
+2023-06-05,Millennials,hair,16
+2023-06-05,Millennials,makeup,10
+2023-06-05,Millennials,other,1131
+2023-06-05,Millennials,skincare,5
+2023-06-12,Gen Z,hair,2
+2023-06-12,Gen Z,makeup,7
+2023-06-12,Gen Z,other,1335
+2023-06-12,Gen Z,skincare,16
+2023-06-12,Millennials,hair,16
+2023-06-12,Millennials,makeup,7
+2023-06-12,Millennials,other,1394
+2023-06-12,Millennials,skincare,8
+2023-06-19,Gen Z,fragrance,2
+2023-06-19,Gen Z,hair,4
+2023-06-19,Gen Z,makeup,17
+2023-06-19,Gen Z,other,239
+2023-06-19,Gen Z,skincare,5
+2023-06-19,Millennials,hair,13
+2023-06-19,Millennials,makeup,1
+2023-06-19,Millennials,other,125
+2023-06-19,Millennials,skincare,1
+2023-06-26,Gen Z,hair,2
+2023-06-26,Gen Z,makeup,28
+2023-06-26,Gen Z,other,2181
+2023-06-26,Gen Z,skincare,26
+2023-06-26,Millennials,hair,14
+2023-06-26,Millennials,makeup,2
+2023-06-26,Millennials,other,1090
+2023-06-26,Millennials,skincare,3
+2023-07-03,Gen Z,hair,1
+2023-07-03,Gen Z,makeup,30
+2023-07-03,Gen Z,other,750
+2023-07-03,Gen Z,skincare,13
+2023-07-03,Millennials,hair,6
+2023-07-03,Millennials,makeup,3
+2023-07-03,Millennials,other,76
+2023-07-10,Gen Z,hair,6
+2023-07-10,Gen Z,makeup,16
+2023-07-10,Gen Z,other,2357
+2023-07-10,Gen Z,skincare,21
+2023-07-10,Millennials,hair,13
+2023-07-10,Millennials,makeup,6
+2023-07-10,Millennials,other,195
+2023-07-10,Millennials,skincare,2
+2023-07-17,Gen Z,fragrance,1
+2023-07-17,Gen Z,hair,1
+2023-07-17,Gen Z,makeup,8
+2023-07-17,Gen Z,other,263
+2023-07-17,Gen Z,skincare,11
+2023-07-17,Millennials,fragrance,1
+2023-07-17,Millennials,hair,10
+2023-07-17,Millennials,makeup,2
+2023-07-17,Millennials,other,183
+2023-07-17,Millennials,skincare,2
+2023-07-24,Gen Z,fragrance,1
+2023-07-24,Gen Z,makeup,8
+2023-07-24,Gen Z,other,101
+2023-07-24,Gen Z,skincare,8
+2023-07-24,Millennials,hair,3
+2023-07-24,Millennials,makeup,2
+2023-07-24,Millennials,other,40
+2023-07-31,Gen Z,hair,1
+2023-07-31,Gen Z,makeup,17
+2023-07-31,Gen Z,other,177
+2023-07-31,Gen Z,skincare,12
+2023-07-31,Millennials,hair,12
+2023-07-31,Millennials,makeup,1
+2023-07-31,Millennials,other,251
+2023-07-31,Millennials,skincare,3
+2023-08-07,Gen Z,fragrance,1
+2023-08-07,Gen Z,hair,4
+2023-08-07,Gen Z,makeup,18
+2023-08-07,Gen Z,other,1248
+2023-08-07,Gen Z,skincare,21
+2023-08-07,Millennials,hair,17
+2023-08-07,Millennials,makeup,3
+2023-08-07,Millennials,other,106
+2023-08-07,Millennials,skincare,3
+2023-08-14,Gen Z,hair,4
+2023-08-14,Gen Z,makeup,15
+2023-08-14,Gen Z,other,764
+2023-08-14,Gen Z,skincare,25
+2023-08-14,Millennials,fragrance,1
+2023-08-14,Millennials,hair,7
+2023-08-14,Millennials,makeup,2
+2023-08-14,Millennials,other,855
+2023-08-14,Millennials,skincare,6
+2023-08-21,Gen Z,fragrance,3
+2023-08-21,Gen Z,hair,1
+2023-08-21,Gen Z,makeup,20
+2023-08-21,Gen Z,other,534
+2023-08-21,Gen Z,skincare,21
+2023-08-21,Millennials,fragrance,1
+2023-08-21,Millennials,hair,10
+2023-08-21,Millennials,makeup,4
+2023-08-21,Millennials,other,546
+2023-08-21,Millennials,skincare,7
+2023-08-28,Gen Z,hair,1
+2023-08-28,Gen Z,makeup,20
+2023-08-28,Gen Z,other,1149
+2023-08-28,Gen Z,skincare,23
+2023-08-28,Millennials,hair,11
+2023-08-28,Millennials,other,163
+2023-08-28,Millennials,skincare,1
+2023-09-04,Gen Z,hair,2
+2023-09-04,Gen Z,makeup,20
+2023-09-04,Gen Z,other,160
+2023-09-04,Gen Z,skincare,8
+2023-09-04,Millennials,hair,17
+2023-09-04,Millennials,makeup,6
+2023-09-04,Millennials,other,343
+2023-09-04,Millennials,skincare,4
+2023-09-11,Gen Z,fragrance,3
+2023-09-11,Gen Z,hair,2
+2023-09-11,Gen Z,makeup,20
+2023-09-11,Gen Z,other,1859
+2023-09-11,Gen Z,skincare,16
+2023-09-11,Millennials,hair,15
+2023-09-11,Millennials,makeup,3
+2023-09-11,Millennials,other,110
+2023-09-18,Gen Z,fragrance,2
+2023-09-18,Gen Z,hair,4
+2023-09-18,Gen Z,makeup,21
+2023-09-18,Gen Z,other,1570
+2023-09-18,Gen Z,skincare,20
+2023-09-18,Millennials,hair,6
+2023-09-18,Millennials,other,78
+2023-09-18,Millennials,skincare,1
+2023-09-25,Gen Z,hair,3
+2023-09-25,Gen Z,makeup,18
+2023-09-25,Gen Z,other,1600
+2023-09-25,Gen Z,skincare,19
+2023-09-25,Millennials,hair,7
+2023-09-25,Millennials,makeup,5
+2023-09-25,Millennials,other,163
+2023-09-25,Millennials,skincare,5
+2023-10-02,Gen Z,fragrance,2
+2023-10-02,Gen Z,makeup,10
+2023-10-02,Gen Z,other,267
+2023-10-02,Gen Z,skincare,4
+2023-10-02,Millennials,hair,17
+2023-10-02,Millennials,makeup,2
+2023-10-02,Millennials,other,821
+2023-10-02,Millennials,skincare,2
+2023-10-09,Gen Z,hair,2
+2023-10-09,Gen Z,makeup,10
+2023-10-09,Gen Z,other,262
+2023-10-09,Gen Z,skincare,11
+2023-10-09,Millennials,hair,15
+2023-10-09,Millennials,makeup,2
+2023-10-09,Millennials,other,158
+2023-10-09,Millennials,skincare,5
+2023-10-16,Gen Z,hair,2
+2023-10-16,Gen Z,makeup,25
+2023-10-16,Gen Z,other,2002
+2023-10-16,Gen Z,skincare,16
+2023-10-16,Millennials,hair,3
+2023-10-16,Millennials,makeup,2
+2023-10-16,Millennials,other,71
+2023-10-23,Gen Z,fragrance,1
+2023-10-23,Gen Z,makeup,16
+2023-10-23,Gen Z,other,1477
+2023-10-23,Gen Z,skincare,24
+2023-10-23,Millennials,hair,12
+2023-10-23,Millennials,makeup,6
+2023-10-23,Millennials,other,284
+2023-10-23,Millennials,skincare,2
+2023-10-30,Gen Z,makeup,25
+2023-10-30,Gen Z,other,303
+2023-10-30,Gen Z,skincare,8
+2023-10-30,Millennials,hair,10
+2023-10-30,Millennials,other,39
+2023-11-06,Gen Z,hair,2
+2023-11-06,Gen Z,makeup,17
+2023-11-06,Gen Z,other,314
+2023-11-06,Gen Z,skincare,6
+2023-11-06,Millennials,hair,12
+2023-11-06,Millennials,makeup,2
+2023-11-06,Millennials,other,95
+2023-11-06,Millennials,skincare,3
+2023-11-13,Gen Z,fragrance,2
+2023-11-13,Gen Z,hair,1
+2023-11-13,Gen Z,makeup,21
+2023-11-13,Gen Z,other,422
+2023-11-13,Gen Z,skincare,16
+2023-11-13,Millennials,hair,11
+2023-11-13,Millennials,makeup,4
+2023-11-13,Millennials,other,116
+2023-11-20,Gen Z,fragrance,1
+2023-11-20,Gen Z,hair,7
+2023-11-20,Gen Z,makeup,25
+2023-11-20,Gen Z,other,1522
+2023-11-20,Gen Z,skincare,25
+2023-11-20,Millennials,hair,18
+2023-11-20,Millennials,makeup,5
+2023-11-20,Millennials,other,219
+2023-11-20,Millennials,skincare,4
+2023-11-27,Gen Z,fragrance,1
+2023-11-27,Gen Z,hair,2
+2023-11-27,Gen Z,makeup,35
+2023-11-27,Gen Z,other,1007
+2023-11-27,Gen Z,skincare,28
+2023-11-27,Millennials,hair,2
+2023-11-27,Millennials,makeup,3
+2023-11-27,Millennials,other,93
+2023-12-04,Gen Z,hair,5
+2023-12-04,Gen Z,makeup,31
+2023-12-04,Gen Z,other,2013
+2023-12-04,Gen Z,skincare,34
+2023-12-04,Millennials,hair,2
+2023-12-04,Millennials,makeup,1
+2023-12-04,Millennials,other,9
+2023-12-11,Gen Z,fragrance,1
+2023-12-11,Gen Z,makeup,14
+2023-12-11,Gen Z,other,567
+2023-12-11,Gen Z,skincare,49
+2023-12-11,Millennials,hair,2
+2023-12-11,Millennials,other,67
+2023-12-11,Millennials,skincare,3
+2023-12-18,Gen Z,fragrance,1
+2023-12-18,Gen Z,hair,4
+2023-12-18,Gen Z,makeup,32
+2023-12-18,Gen Z,other,580
+2023-12-18,Gen Z,skincare,36
+2023-12-18,Millennials,hair,7
+2023-12-18,Millennials,makeup,4
+2023-12-18,Millennials,other,545
+2023-12-18,Millennials,skincare,3
+2023-12-25,Gen Z,makeup,20
+2023-12-25,Gen Z,other,649
+2023-12-25,Gen Z,skincare,45
+2023-12-25,Millennials,hair,4
+2023-12-25,Millennials,makeup,1
+2023-12-25,Millennials,other,103
+2023-12-25,Millennials,skincare,1
+2024-01-01,Gen Z,fragrance,1
+2024-01-01,Gen Z,makeup,10
+2024-01-01,Gen Z,other,1178
+2024-01-01,Gen Z,skincare,46
+2024-01-01,Millennials,hair,3
+2024-01-01,Millennials,other,17
+2024-01-08,Gen Z,makeup,8
+2024-01-08,Gen Z,other,335
+2024-01-08,Gen Z,skincare,40
+2024-01-08,Millennials,fragrance,2
+2024-01-08,Millennials,hair,5
+2024-01-08,Millennials,makeup,6
+2024-01-08,Millennials,other,1178
+2024-01-08,Millennials,skincare,5
+2024-01-15,Gen Z,makeup,12
+2024-01-15,Gen Z,other,594
+2024-01-15,Gen Z,skincare,31
+2024-01-15,Millennials,hair,8
+2024-01-15,Millennials,makeup,6
+2024-01-15,Millennials,other,68
+2024-01-15,Millennials,skincare,2
+2024-01-22,Gen Z,makeup,2
+2024-01-22,Gen Z,other,93
+2024-01-22,Gen Z,skincare,8
+2024-01-22,Millennials,hair,8
+2024-01-22,Millennials,makeup,12
+2024-01-22,Millennials,other,1259
+2024-01-22,Millennials,skincare,9
+2024-01-29,Gen Z,fragrance,2
+2024-01-29,Gen Z,makeup,11
+2024-01-29,Gen Z,other,272
+2024-01-29,Gen Z,skincare,5
+2024-01-29,Millennials,hair,9
+2024-01-29,Millennials,makeup,2
+2024-01-29,Millennials,other,807
+2024-01-29,Millennials,skincare,3
+2024-02-05,Gen Z,makeup,7
+2024-02-05,Gen Z,other,92
+2024-02-05,Gen Z,skincare,4
+2024-02-05,Millennials,hair,9
+2024-02-05,Millennials,makeup,6
+2024-02-05,Millennials,other,227
+2024-02-05,Millennials,skincare,1
+2024-02-12,Gen Z,hair,1
+2024-02-12,Gen Z,makeup,8
+2024-02-12,Gen Z,other,311
+2024-02-12,Gen Z,skincare,6
+2024-02-12,Millennials,hair,14
+2024-02-12,Millennials,makeup,1
+2024-02-12,Millennials,other,201
+2024-02-12,Millennials,skincare,6
+2024-02-19,Gen Z,fragrance,3
+2024-02-19,Gen Z,hair,2
+2024-02-19,Gen Z,makeup,9
+2024-02-19,Gen Z,other,761
+2024-02-19,Gen Z,skincare,5
+2024-02-19,Millennials,hair,17
+2024-02-19,Millennials,makeup,4
+2024-02-19,Millennials,other,1024
+2024-02-19,Millennials,skincare,6
+2024-02-26,Gen Z,hair,1
+2024-02-26,Gen Z,makeup,9
+2024-02-26,Gen Z,other,176
+2024-02-26,Gen Z,skincare,11
+2024-02-26,Millennials,hair,6
+2024-02-26,Millennials,makeup,3
+2024-02-26,Millennials,other,47
+2024-02-26,Millennials,skincare,1
+2024-03-04,Gen Z,fragrance,6
+2024-03-04,Gen Z,hair,3
+2024-03-04,Gen Z,makeup,7
+2024-03-04,Gen Z,other,1124
+2024-03-04,Gen Z,skincare,4
+2024-03-04,Millennials,hair,13
+2024-03-04,Millennials,makeup,2
+2024-03-04,Millennials,other,57
+2024-03-11,Gen Z,fragrance,1
+2024-03-11,Gen Z,makeup,4
+2024-03-11,Gen Z,other,124
+2024-03-11,Gen Z,skincare,3
+2024-03-11,Millennials,hair,7
+2024-03-11,Millennials,makeup,1
+2024-03-11,Millennials,other,45
+2024-03-18,Gen Z,hair,1
+2024-03-18,Gen Z,makeup,15
+2024-03-18,Gen Z,other,272
+2024-03-18,Gen Z,skincare,7
+2024-03-18,Millennials,hair,8
+2024-03-18,Millennials,makeup,4
+2024-03-18,Millennials,other,136
+2024-03-18,Millennials,skincare,1
+2024-03-25,Gen Z,makeup,3
+2024-03-25,Gen Z,other,27
+2024-03-25,Gen Z,skincare,2
+2024-03-25,Millennials,hair,15
+2024-03-25,Millennials,makeup,5
+2024-03-25,Millennials,other,493
+2024-03-25,Millennials,skincare,4
+2024-04-01,Gen Z,makeup,18
+2024-04-01,Gen Z,other,305
+2024-04-01,Gen Z,skincare,11
+2024-04-01,Millennials,hair,7
+2024-04-01,Millennials,makeup,2
+2024-04-01,Millennials,other,62
+2024-04-08,Gen Z,fragrance,1
+2024-04-08,Gen Z,makeup,8
+2024-04-08,Gen Z,other,361
+2024-04-08,Gen Z,skincare,4
+2024-04-08,Millennials,hair,9
+2024-04-08,Millennials,makeup,2
+2024-04-08,Millennials,other,312
+2024-04-08,Millennials,skincare,4
+2024-04-15,Gen Z,hair,1
+2024-04-15,Gen Z,makeup,7
+2024-04-15,Gen Z,other,117
+2024-04-15,Gen Z,skincare,8
+2024-04-15,Millennials,fragrance,2
+2024-04-15,Millennials,hair,13
+2024-04-15,Millennials,makeup,9
+2024-04-15,Millennials,other,913
+2024-04-15,Millennials,skincare,7
+2024-04-22,Gen Z,hair,3
+2024-04-22,Gen Z,makeup,13
+2024-04-22,Gen Z,other,1539
+2024-04-22,Gen Z,skincare,14
+2024-04-22,Millennials,hair,5
+2024-04-22,Millennials,makeup,2
+2024-04-22,Millennials,other,125
+2024-04-22,Millennials,skincare,5
+2024-04-29,Gen Z,fragrance,1
+2024-04-29,Gen Z,hair,2
+2024-04-29,Gen Z,makeup,8
+2024-04-29,Gen Z,other,156
+2024-04-29,Gen Z,skincare,6
+2024-04-29,Millennials,hair,2
+2024-04-29,Millennials,makeup,4
+2024-04-29,Millennials,other,494
+2024-04-29,Millennials,skincare,4
+2024-05-06,Gen Z,fragrance,2
+2024-05-06,Gen Z,hair,5
+2024-05-06,Gen Z,makeup,17
+2024-05-06,Gen Z,other,832
+2024-05-06,Gen Z,skincare,29
+2024-05-06,Millennials,hair,6
+2024-05-06,Millennials,makeup,6
+2024-05-06,Millennials,other,703
+2024-05-06,Millennials,skincare,3
+2024-05-13,Gen Z,makeup,10
+2024-05-13,Gen Z,other,127
+2024-05-13,Gen Z,skincare,8
+2024-05-13,Millennials,hair,5
+2024-05-13,Millennials,makeup,1
+2024-05-13,Millennials,other,38
+2024-05-20,Gen Z,fragrance,2
+2024-05-20,Gen Z,hair,1
+2024-05-20,Gen Z,makeup,16
+2024-05-20,Gen Z,other,301
+2024-05-20,Gen Z,skincare,8
+2024-05-20,Millennials,hair,4
+2024-05-20,Millennials,other,36
+2024-05-20,Millennials,skincare,1
+2024-05-27,Gen Z,hair,1
+2024-05-27,Gen Z,makeup,3
+2024-05-27,Gen Z,other,103
+2024-05-27,Gen Z,skincare,6
+2024-05-27,Millennials,hair,7
+2024-05-27,Millennials,makeup,1
+2024-05-27,Millennials,other,403
+2024-05-27,Millennials,skincare,2
+2024-06-03,Gen Z,fragrance,1
+2024-06-03,Gen Z,hair,3
+2024-06-03,Gen Z,makeup,5
+2024-06-03,Gen Z,other,597
+2024-06-03,Gen Z,skincare,9
+2024-06-03,Millennials,fragrance,1
+2024-06-03,Millennials,hair,8
+2024-06-03,Millennials,makeup,1
+2024-06-03,Millennials,other,115
+2024-06-03,Millennials,skincare,2
+2024-06-10,Gen Z,fragrance,1
+2024-06-10,Gen Z,hair,1
+2024-06-10,Gen Z,makeup,1
+2024-06-10,Gen Z,other,327
+2024-06-10,Gen Z,skincare,7
+2024-06-10,Millennials,hair,8
+2024-06-10,Millennials,makeup,10
+2024-06-10,Millennials,other,1843
+2024-06-10,Millennials,skincare,10
+2024-06-17,Gen Z,hair,2
+2024-06-17,Gen Z,makeup,12
+2024-06-17,Gen Z,other,897
+2024-06-17,Gen Z,skincare,14
+2024-06-24,Gen Z,makeup,17
+2024-06-24,Gen Z,other,285
+2024-06-24,Gen Z,skincare,4
+2024-06-24,Millennials,hair,5
+2024-06-24,Millennials,makeup,3
+2024-06-24,Millennials,other,45
+2024-06-24,Millennials,skincare,1
+2024-07-01,Gen Z,makeup,17
+2024-07-01,Gen Z,other,237
+2024-07-01,Gen Z,skincare,17
+2024-07-01,Millennials,hair,3
+2024-07-01,Millennials,makeup,2
+2024-07-01,Millennials,other,805
+2024-07-01,Millennials,skincare,4
+2024-07-08,Gen Z,makeup,16
+2024-07-08,Gen Z,other,300
+2024-07-08,Gen Z,skincare,14
+2024-07-08,Millennials,hair,12
+2024-07-08,Millennials,makeup,4
+2024-07-08,Millennials,other,360
+2024-07-08,Millennials,skincare,4
+2024-07-15,Gen Z,fragrance,1
+2024-07-15,Gen Z,hair,1
+2024-07-15,Gen Z,makeup,18
+2024-07-15,Gen Z,other,997
+2024-07-15,Gen Z,skincare,5
+2024-07-15,Millennials,hair,1
+2024-07-15,Millennials,makeup,1
+2024-07-15,Millennials,other,13
+2024-07-22,Gen Z,makeup,9
+2024-07-22,Gen Z,other,126
+2024-07-22,Gen Z,skincare,4
+2024-07-22,Millennials,hair,9
+2024-07-22,Millennials,other,108
+2024-07-29,Gen Z,hair,2
+2024-07-29,Gen Z,makeup,17
+2024-07-29,Gen Z,other,353
+2024-07-29,Gen Z,skincare,16
+2024-07-29,Millennials,hair,11
+2024-07-29,Millennials,makeup,1
+2024-07-29,Millennials,other,110
+2024-07-29,Millennials,skincare,1
+2024-08-05,Gen Z,fragrance,2
+2024-08-05,Gen Z,hair,1
+2024-08-05,Gen Z,makeup,22
+2024-08-05,Gen Z,other,917
+2024-08-05,Gen Z,skincare,7
+2024-08-05,Millennials,hair,2
+2024-08-05,Millennials,other,59
+2024-08-05,Millennials,skincare,3
+2024-08-12,Gen Z,fragrance,1
+2024-08-12,Gen Z,hair,2
+2024-08-12,Gen Z,makeup,4
+2024-08-12,Gen Z,other,324
+2024-08-12,Gen Z,skincare,12
+2024-08-12,Millennials,hair,7
+2024-08-12,Millennials,other,77
+2024-08-19,Gen Z,fragrance,4
+2024-08-19,Gen Z,hair,1
+2024-08-19,Gen Z,makeup,9
+2024-08-19,Gen Z,other,271
+2024-08-19,Gen Z,skincare,6
+2024-08-19,Millennials,hair,2
+2024-08-19,Millennials,other,11
+2024-08-19,Millennials,skincare,1
+2024-08-26,Gen Z,hair,1
+2024-08-26,Gen Z,makeup,8
+2024-08-26,Gen Z,other,198
+2024-08-26,Gen Z,skincare,13
+2024-08-26,Millennials,hair,14
+2024-08-26,Millennials,makeup,2
+2024-08-26,Millennials,other,311
+2024-08-26,Millennials,skincare,3
+2024-09-02,Gen Z,fragrance,1
+2024-09-02,Gen Z,makeup,9
+2024-09-02,Gen Z,other,130
+2024-09-02,Gen Z,skincare,4
+2024-09-02,Millennials,hair,6
+2024-09-02,Millennials,makeup,2
+2024-09-02,Millennials,other,76
+2024-09-09,Gen Z,fragrance,1
+2024-09-09,Gen Z,makeup,7
+2024-09-09,Gen Z,other,276
+2024-09-09,Gen Z,skincare,9
+2024-09-09,Millennials,hair,15
+2024-09-09,Millennials,makeup,4
+2024-09-09,Millennials,other,236
+2024-09-09,Millennials,skincare,3
+2024-09-16,Gen Z,fragrance,1
+2024-09-16,Gen Z,makeup,16
+2024-09-16,Gen Z,other,233
+2024-09-16,Gen Z,skincare,19
+2024-09-16,Millennials,hair,13
+2024-09-16,Millennials,makeup,3
+2024-09-16,Millennials,other,170
+2024-09-16,Millennials,skincare,1
+2024-09-23,Gen Z,fragrance,1
+2024-09-23,Gen Z,makeup,15
+2024-09-23,Gen Z,other,338
+2024-09-23,Gen Z,skincare,11
+2024-09-23,Millennials,hair,6
+2024-09-23,Millennials,makeup,3
+2024-09-23,Millennials,other,104
+2024-09-23,Millennials,skincare,2
+2024-09-30,Gen Z,fragrance,3
+2024-09-30,Gen Z,hair,2
+2024-09-30,Gen Z,makeup,24
+2024-09-30,Gen Z,other,780
+2024-09-30,Gen Z,skincare,13
+2024-09-30,Millennials,hair,12
+2024-09-30,Millennials,makeup,3
+2024-09-30,Millennials,other,193
+2024-09-30,Millennials,skincare,2
+2024-10-07,Gen Z,fragrance,2
+2024-10-07,Gen Z,hair,2
+2024-10-07,Gen Z,makeup,18
+2024-10-07,Gen Z,other,765
+2024-10-07,Gen Z,skincare,20
+2024-10-07,Millennials,hair,15
+2024-10-07,Millennials,makeup,3
+2024-10-07,Millennials,other,122
+2024-10-07,Millennials,skincare,1
+2024-10-14,Gen Z,makeup,17
+2024-10-14,Gen Z,other,384
+2024-10-14,Gen Z,skincare,10
+2024-10-14,Millennials,hair,10
+2024-10-14,Millennials,makeup,3
+2024-10-14,Millennials,other,41
+2024-10-21,Gen Z,hair,1
+2024-10-21,Gen Z,makeup,5
+2024-10-21,Gen Z,other,228
+2024-10-21,Gen Z,skincare,4
+2024-10-21,Millennials,hair,20
+2024-10-21,Millennials,makeup,5
+2024-10-21,Millennials,other,271
+2024-10-21,Millennials,skincare,4
+2024-10-28,Gen Z,hair,4
+2024-10-28,Gen Z,makeup,8
+2024-10-28,Gen Z,other,769
+2024-10-28,Gen Z,skincare,16
+2024-10-28,Millennials,hair,16
+2024-10-28,Millennials,makeup,3
+2024-10-28,Millennials,other,977
+2024-10-28,Millennials,skincare,4
+2024-11-04,Gen Z,fragrance,2
+2024-11-04,Gen Z,hair,2
+2024-11-04,Gen Z,makeup,12
+2024-11-04,Gen Z,other,673
+2024-11-04,Gen Z,skincare,12
+2024-11-04,Millennials,hair,15
+2024-11-04,Millennials,makeup,7
+2024-11-04,Millennials,other,83
+2024-11-04,Millennials,skincare,3
+2024-11-11,Gen Z,fragrance,1
+2024-11-11,Gen Z,hair,3
+2024-11-11,Gen Z,makeup,11
+2024-11-11,Gen Z,other,477
+2024-11-11,Gen Z,skincare,6
+2024-11-11,Millennials,fragrance,1
+2024-11-11,Millennials,hair,6
+2024-11-11,Millennials,makeup,1
+2024-11-11,Millennials,other,53
+2024-11-18,Gen Z,fragrance,1
+2024-11-18,Gen Z,hair,4
+2024-11-18,Gen Z,makeup,35
+2024-11-18,Gen Z,other,1047
+2024-11-18,Gen Z,skincare,14
+2024-11-18,Millennials,hair,9
+2024-11-18,Millennials,other,209
+2024-11-18,Millennials,skincare,4
+2024-11-25,Gen Z,hair,1
+2024-11-25,Gen Z,makeup,14
+2024-11-25,Gen Z,other,457
+2024-11-25,Gen Z,skincare,9
+2024-11-25,Millennials,hair,5
+2024-11-25,Millennials,makeup,1
+2024-11-25,Millennials,other,65
+2024-12-02,Gen Z,fragrance,3
+2024-12-02,Gen Z,hair,5
+2024-12-02,Gen Z,makeup,47
+2024-12-02,Gen Z,other,1451
+2024-12-02,Gen Z,skincare,22
+2024-12-02,Millennials,hair,4
+2024-12-02,Millennials,makeup,3
+2024-12-02,Millennials,other,72
+2024-12-02,Millennials,skincare,1
+2024-12-09,Gen Z,fragrance,1
+2024-12-09,Gen Z,hair,1
+2024-12-09,Gen Z,makeup,37
+2024-12-09,Gen Z,other,369
+2024-12-09,Gen Z,skincare,13
+2024-12-09,Millennials,hair,18
+2024-12-09,Millennials,makeup,6
+2024-12-09,Millennials,other,603
+2024-12-09,Millennials,skincare,2
+2024-12-16,Gen Z,hair,4
+2024-12-16,Gen Z,makeup,21
+2024-12-16,Gen Z,other,794
+2024-12-16,Gen Z,skincare,23
+2024-12-16,Millennials,hair,3
+2024-12-16,Millennials,makeup,1
+2024-12-16,Millennials,other,38
+2024-12-16,Millennials,skincare,1
+2024-12-23,Gen Z,fragrance,1
+2024-12-23,Gen Z,hair,1
+2024-12-23,Gen Z,makeup,36
+2024-12-23,Gen Z,other,257
+2024-12-23,Gen Z,skincare,5
+2024-12-23,Millennials,hair,6
+2024-12-23,Millennials,makeup,2
+2024-12-23,Millennials,other,132
+2024-12-23,Millennials,skincare,1
+2024-12-30,Gen Z,hair,1
+2024-12-30,Gen Z,makeup,13
+2024-12-30,Gen Z,other,358
+2024-12-30,Gen Z,skincare,6
+2024-12-30,Millennials,hair,7
+2024-12-30,Millennials,makeup,5
+2024-12-30,Millennials,other,1146
+2024-12-30,Millennials,skincare,8
+2025-01-06,Gen Z,hair,2
+2025-01-06,Gen Z,makeup,1
+2025-01-06,Gen Z,other,163
+2025-01-06,Gen Z,skincare,7
+2025-01-06,Millennials,hair,7
+2025-01-06,Millennials,makeup,4
+2025-01-06,Millennials,other,122
+2025-01-06,Millennials,skincare,3
+2025-01-13,Gen Z,hair,4
+2025-01-13,Gen Z,makeup,21
+2025-01-13,Gen Z,other,931
+2025-01-13,Gen Z,skincare,9
+2025-01-13,Millennials,hair,6
+2025-01-13,Millennials,makeup,3
+2025-01-13,Millennials,other,48
+2025-01-20,Gen Z,fragrance,1
+2025-01-20,Gen Z,hair,2
+2025-01-20,Gen Z,makeup,14
+2025-01-20,Gen Z,other,766
+2025-01-20,Gen Z,skincare,13
+2025-01-20,Millennials,fragrance,1
+2025-01-20,Millennials,hair,12
+2025-01-20,Millennials,makeup,3
+2025-01-20,Millennials,other,152
+2025-01-20,Millennials,skincare,3
+2025-01-27,Gen Z,makeup,26
+2025-01-27,Gen Z,other,168
+2025-01-27,Gen Z,skincare,2
+2025-01-27,Millennials,hair,9
+2025-01-27,Millennials,makeup,2
+2025-01-27,Millennials,other,136
+2025-01-27,Millennials,skincare,1
+2025-02-03,Gen Z,fragrance,3
+2025-02-03,Gen Z,hair,3
+2025-02-03,Gen Z,makeup,35
+2025-02-03,Gen Z,other,1383
+2025-02-03,Gen Z,skincare,20
+2025-02-03,Millennials,hair,8
+2025-02-03,Millennials,makeup,5
+2025-02-03,Millennials,other,863
+2025-02-03,Millennials,skincare,4
+2025-02-10,Gen Z,fragrance,1
+2025-02-10,Gen Z,makeup,21
+2025-02-10,Gen Z,other,347
+2025-02-10,Gen Z,skincare,13
+2025-02-10,Millennials,hair,12
+2025-02-10,Millennials,other,57
+2025-02-10,Millennials,skincare,1
+2025-02-17,Gen Z,makeup,20
+2025-02-17,Gen Z,other,362
+2025-02-17,Gen Z,skincare,15
+2025-02-17,Millennials,hair,11
+2025-02-17,Millennials,makeup,2
+2025-02-17,Millennials,other,109
+2025-02-17,Millennials,skincare,1
+2025-02-24,Gen Z,fragrance,1
+2025-02-24,Gen Z,hair,7
+2025-02-24,Gen Z,makeup,42
+2025-02-24,Gen Z,other,1668
+2025-02-24,Gen Z,skincare,24
+2025-02-24,Millennials,hair,21
+2025-02-24,Millennials,makeup,4
+2025-02-24,Millennials,other,400
+2025-02-24,Millennials,skincare,5
+2025-03-03,Gen Z,fragrance,1
+2025-03-03,Gen Z,hair,1
+2025-03-03,Gen Z,makeup,22
+2025-03-03,Gen Z,other,1322
+2025-03-03,Gen Z,skincare,5
+2025-03-03,Millennials,hair,18
+2025-03-03,Millennials,makeup,5
+2025-03-03,Millennials,other,183
+2025-03-10,Gen Z,hair,6
+2025-03-10,Gen Z,makeup,27
+2025-03-10,Gen Z,other,915
+2025-03-10,Gen Z,skincare,17
+2025-03-10,Millennials,hair,11
+2025-03-10,Millennials,makeup,4
+2025-03-10,Millennials,other,1019
+2025-03-10,Millennials,skincare,6
+2025-03-17,Gen Z,fragrance,3
+2025-03-17,Gen Z,hair,2
+2025-03-17,Gen Z,makeup,28
+2025-03-17,Gen Z,other,744
+2025-03-17,Gen Z,skincare,15
+2025-03-17,Millennials,hair,17
+2025-03-17,Millennials,makeup,4
+2025-03-17,Millennials,other,807
+2025-03-17,Millennials,skincare,5
+2025-03-24,Gen Z,fragrance,4
+2025-03-24,Gen Z,hair,4
+2025-03-24,Gen Z,makeup,24
+2025-03-24,Gen Z,other,1141
+2025-03-24,Gen Z,skincare,33
+2025-03-24,Millennials,hair,8
+2025-03-24,Millennials,makeup,3
+2025-03-24,Millennials,other,558
+2025-03-24,Millennials,skincare,2
+2025-03-31,Gen Z,fragrance,3
+2025-03-31,Gen Z,hair,8
+2025-03-31,Gen Z,makeup,42
+2025-03-31,Gen Z,other,1974
+2025-03-31,Gen Z,skincare,20
+2025-03-31,Millennials,fragrance,1
+2025-03-31,Millennials,hair,20
+2025-03-31,Millennials,makeup,13
+2025-03-31,Millennials,other,1435
+2025-03-31,Millennials,skincare,9
+2025-04-07,Gen Z,fragrance,2
+2025-04-07,Gen Z,hair,4
+2025-04-07,Gen Z,makeup,38
+2025-04-07,Gen Z,other,2022
+2025-04-07,Gen Z,skincare,31
+2025-04-07,Millennials,hair,25
+2025-04-07,Millennials,makeup,7
+2025-04-07,Millennials,other,1583
+2025-04-07,Millennials,skincare,5
+2025-04-14,Gen Z,fragrance,1
+2025-04-14,Gen Z,makeup,39
+2025-04-14,Gen Z,other,822
+2025-04-14,Gen Z,skincare,20
+2025-04-14,Millennials,hair,20
+2025-04-14,Millennials,makeup,8
+2025-04-14,Millennials,other,136
+2025-04-14,Millennials,skincare,2
+2025-04-21,Gen Z,fragrance,1
+2025-04-21,Gen Z,hair,4
+2025-04-21,Gen Z,makeup,39
+2025-04-21,Gen Z,other,1140
+2025-04-21,Gen Z,skincare,22
+2025-04-21,Millennials,hair,9
+2025-04-21,Millennials,makeup,3
+2025-04-21,Millennials,other,46
+2025-04-28,Gen Z,fragrance,1
+2025-04-28,Gen Z,hair,2
+2025-04-28,Gen Z,makeup,32
+2025-04-28,Gen Z,other,1134
+2025-04-28,Gen Z,skincare,18
+2025-04-28,Millennials,hair,19
+2025-04-28,Millennials,makeup,6
+2025-04-28,Millennials,other,1038
+2025-04-28,Millennials,skincare,3
+2025-05-05,Gen Z,fragrance,1
+2025-05-05,Gen Z,hair,1
+2025-05-05,Gen Z,makeup,43
+2025-05-05,Gen Z,other,659
+2025-05-05,Gen Z,skincare,24
+2025-05-05,Millennials,hair,18
+2025-05-05,Millennials,makeup,1
+2025-05-05,Millennials,other,118
+2025-05-05,Millennials,skincare,1
+2025-05-12,Gen Z,fragrance,1
+2025-05-12,Gen Z,hair,2
+2025-05-12,Gen Z,makeup,37
+2025-05-12,Gen Z,other,594
+2025-05-12,Gen Z,skincare,17
+2025-05-12,Millennials,hair,14
+2025-05-12,Millennials,makeup,5
+2025-05-12,Millennials,other,542
+2025-05-12,Millennials,skincare,3
+2025-05-19,Gen Z,hair,1
+2025-05-19,Gen Z,makeup,31
+2025-05-19,Gen Z,other,873
+2025-05-19,Gen Z,skincare,16
+2025-05-19,Millennials,hair,11
+2025-05-19,Millennials,makeup,4
+2025-05-19,Millennials,other,101
+2025-05-26,Gen Z,fragrance,2
+2025-05-26,Gen Z,hair,4
+2025-05-26,Gen Z,makeup,55
+2025-05-26,Gen Z,other,2342
+2025-05-26,Gen Z,skincare,30
+2025-05-26,Millennials,hair,13
+2025-05-26,Millennials,makeup,6
+2025-05-26,Millennials,other,133
+2025-05-26,Millennials,skincare,2
+2025-06-02,Gen Z,hair,3
+2025-06-02,Gen Z,makeup,57
+2025-06-02,Gen Z,other,1397
+2025-06-02,Gen Z,skincare,30
+2025-06-02,Millennials,hair,24
+2025-06-02,Millennials,makeup,10
+2025-06-02,Millennials,other,411
+2025-06-02,Millennials,skincare,3
+2025-06-09,Gen Z,fragrance,4
+2025-06-09,Gen Z,hair,5
+2025-06-09,Gen Z,makeup,92
+2025-06-09,Gen Z,other,1741
+2025-06-09,Gen Z,skincare,48
+2025-06-09,Millennials,hair,40
+2025-06-09,Millennials,makeup,12
+2025-06-09,Millennials,other,474
+2025-06-09,Millennials,skincare,5
+2025-06-16,Gen Z,fragrance,2
+2025-06-16,Gen Z,hair,6
+2025-06-16,Gen Z,makeup,37
+2025-06-16,Gen Z,other,810
+2025-06-16,Gen Z,skincare,35
+2025-06-16,Millennials,hair,11
+2025-06-16,Millennials,makeup,4
+2025-06-16,Millennials,other,100
+2025-06-16,Millennials,skincare,4
+2025-06-23,Gen Z,fragrance,2
+2025-06-23,Gen Z,hair,3
+2025-06-23,Gen Z,makeup,43
+2025-06-23,Gen Z,other,1456
+2025-06-23,Gen Z,skincare,25
+2025-06-23,Millennials,hair,25
+2025-06-23,Millennials,makeup,10
+2025-06-23,Millennials,other,737
+2025-06-23,Millennials,skincare,10
+2025-06-30,Gen Z,hair,4
+2025-06-30,Gen Z,makeup,29
+2025-06-30,Gen Z,other,1875
+2025-06-30,Gen Z,skincare,25
+2025-06-30,Millennials,hair,9
+2025-06-30,Millennials,makeup,3
+2025-06-30,Millennials,other,362
+2025-06-30,Millennials,skincare,1
+2025-07-07,Gen Z,fragrance,1
+2025-07-07,Gen Z,makeup,10
+2025-07-07,Gen Z,other,86
+2025-07-07,Gen Z,skincare,2
+2025-07-07,Millennials,hair,5
+2025-07-07,Millennials,other,9

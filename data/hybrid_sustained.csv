@@ -1,0 +1,11 @@
+token,topic_label,token_score_raw,topic_score_raw,token_norm,topic_norm,hybrid_score
+makeup,"makeuptutorial, lipstick, makeupartist",2685.0886773547095,7023.0,1.0,1.0,1.0
+makeuptutorial,"makeuptutorial, lipstick, makeupartist",675.7350272232304,7023.0,0.4,1.0,0.76
+beauty,"beauty, amp, look",1411.601593625498,3903.0,0.9,0.625,0.7350000000000001
+makeup,"skincare, makeup, bodylotion",2685.0886773547095,3096.0,1.0,0.5,0.7
+face,"face, contour, viralshorts",845.0357142857142,4188.0,0.6,0.75,0.69
+look,"beauty, amp, look",992.0876338851023,3903.0,0.7,0.625,0.655
+skincare,"skincare, makeup, bodylotion",1080.5964912280701,3096.0,0.8,0.5,0.6200000000000001
+hair,"hair, hairstyle, transformation",627.1717936583057,6948.0,0.2,0.875,0.605
+beautiful,"beauty, amp, look",669.1784702549576,3903.0,0.3,0.625,0.495
+girl,"face, contour, viralshorts",607.5158597662771,4188.0,0.1,0.75,0.49

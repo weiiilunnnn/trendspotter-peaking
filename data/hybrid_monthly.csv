@@ -1,0 +1,11 @@
+token,topic_label,token_score_raw,topic_score_raw,token_norm,topic_norm,hybrid_score
+hair_before_after,"transformation, hairtransformation, haircut",55.0,1177.578231292517,0.75,1.0,0.85
+haircut_power,"transformation, hairtransformation, haircut",55.0,1177.578231292517,0.75,1.0,0.85
+hairfall,"transformation, hairtransformation, haircut",45.0,1177.578231292517,0.6,1.0,0.76
+hair_before_after,"hair, hairstyle, contour",55.0,793.3333333333334,0.75,0.3333333333333333,0.5833333333333333
+haircut_power,"hair, hairstyle, contour",55.0,793.3333333333334,0.75,0.3333333333333333,0.5833333333333333
+fragrances,"face, skin, yoga",39.27272727272727,1071.0,0.5,0.6666666666666666,0.5666666666666667
+ladies_haircut,"transformation, hairtransformation, haircut",30.0,1177.578231292517,0.2,1.0,0.52
+before_and_after_hair,"transformation, hairtransformation, haircut",30.0,1177.578231292517,0.2,1.0,0.52
+hairfall,"hair, hairstyle, contour",45.0,793.3333333333334,0.6,0.3333333333333333,0.4933333333333333
+ladies_haircut,"hair, hairstyle, contour",30.0,793.3333333333334,0.2,0.3333333333333333,0.2533333333333333
