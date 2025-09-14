@@ -12,7 +12,6 @@ Explore **Hair, Makeup, Skincare, and Fragrance** trends with:
 - Hybrid scoring (token + topic normalization)
 - Family-level clustering
 - Cohort split (Gen Z vs Millennials)
-- Decay & Momentum lifecycle detection
 """)
 
 # -------------------------------
