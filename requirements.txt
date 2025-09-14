@@ -5,3 +5,10 @@ matplotlib
 scikit-learn
 sentence-transformers
 statsmodels
+squarify
+seaborn
+langdetect
+googletrans
+pathlib
+tqdm
+rapidfuzz
